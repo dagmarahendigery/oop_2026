@@ -35,3 +35,5 @@ ewa = Czlowiek("Ewa", "K")
 
 adam.przedstaw_sie()
 ewa.przedstaw(adam)
+
+# zmiana
